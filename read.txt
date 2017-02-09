@@ -5,4 +5,8 @@ ssss
 modi
 
 modify in dev branch
+<<<<<<< HEAD
 modify in mas branch
+=======
+modiyf in mas branch 
+>>>>>>> feature1
